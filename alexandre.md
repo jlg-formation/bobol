@@ -58,7 +58,7 @@
 >
 > ### `Alexandre`
 >
-> #### ***Alexandre_***
+> #### ***Alexandre***
 >
 > ##### ~~Alexandre~~ **ALEXANDRE**
 
@@ -130,7 +130,7 @@
 ```
       ╔══════════════════════════════════════╗
       ║                                      ║
-      ║            🎯 ALEXANDRE 🎯           ║
+      ║           🎯 ALEXANDRE 🎯           ║
       ║                                      ║
       ║        ★ Unique • Créatif ★         ║
       ║                                      ║
