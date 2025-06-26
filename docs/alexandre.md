@@ -17,6 +17,17 @@
 
 <div align="center">
 
+![dancing](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3AzYnp2OTNkaXoycXdwdTkwazVleGp3bDlzYm5sd2hrMHdpNnI1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g7GKcSzwQfugw/giphy.gif)
+
+*🕺*
+
+</div>
+
+
+---
+
+<div align="center">
+
 ## 🎭 **L'Art du Nom** 🎭
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Alexandre;Développeur;Créateur;Innovateur)
@@ -61,30 +72,6 @@
 > #### ***Alexandre***
 >
 > ##### ~~Alexandre~~ **ALEXANDRE**
-
-</div>
-
----
-
-<div align="center">
-
-```css
-.alexandre {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    font-size: 3rem;
-    font-weight: bold;
-    background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-align: center;
-    animation: glow 2s ease-in-out infinite alternate;
-}
-
-@keyframes glow {
-    from { text-shadow: 0 0 10px #ff6b6b; }
-    to { text-shadow: 0 0 20px #4ecdc4; }
-}
-```
 
 </div>
 
