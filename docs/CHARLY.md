@@ -21,3 +21,5 @@ Développeur spécialisé en langage C avec une expertise en programmation syst�
 - Compréhension approfondie de l'architecture machine
 - Maîtrise des concepts de pointeurs et allocation mémoire
 - Expérience en débogage de problèmes complexes
+
+charly 2025 tout droit reservé
