@@ -1,17 +1,10 @@
+import type { Ball} from '../types';
+
 export function setupPhysicsSimulation(ctx: CanvasRenderingContext2D) {
   const GRAVITY = 0.4;
   const dt = 1;
   const a = 0.003; // courbure du bol y = ax² (forme de U)
   const BOWL_OFFSET =550; // Décalage vers le bas pour centrer le bowl
-
-  type Ball = {
-    x: number;
-    y: number;
-    vx: number;
-    vy: number;
-    color: string;
-    path: { x: number; y: number }[];
-  };
 
   const balls: Ball[] = [
     {
