@@ -31,6 +31,16 @@ Ce projet vise à explorer des concepts de dynamique chaotique et de visualisati
    cd jlguenego-bobol
    ```
 
+Windows Installation
+For Windows, the recommended method of installing Volta is using winget:
+
+```
+winget install Volta.Volta
+```
+```
+volta install node
+```
+
 2. Pour tester faire les instructions suivante :
 
 ```
