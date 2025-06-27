@@ -1,16 +1,9 @@
+import type { Ball} from '../types';
+
 export function setupPhysicsSimulation(ctx: CanvasRenderingContext2D) {
   const GRAVITY = 0.4;
   const dt = 1;
   const a = 0.005; // courbure du bol y = ax²
-
-  type Ball = {
-    x: number;
-    y: number;
-    vx: number;
-    vy: number;
-    color: string;
-    path: { x: number; y: number }[];
-  };
 
   const balls: Ball[] = [
     {
