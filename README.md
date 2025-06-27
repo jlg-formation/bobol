@@ -32,7 +32,8 @@ La dynamique chaotique est un domaine fascinant de la physique et des mathémati
 - [À compléter selon le langage ou les outils utilisés, par exemple : Python 3.x, Node.js, compilateur C, etc.]
 - (Ajouter les dépendances spécifiques si besoin)
 
----
+--volta
+--node
 
 ## Installation
 
