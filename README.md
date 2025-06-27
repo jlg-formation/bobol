@@ -20,7 +20,8 @@ Ce projet vise à explorer des concepts de dynamique chaotique et de visualisati
 - [À compléter selon le langage ou les outils utilisés, par exemple : Python 3.x, Node.js, compilateur C, etc.]
 - (Ajouter les dépendances spécifiques si besoin)
 
----
+--volta
+--node
 
 ## Installation
 
