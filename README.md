@@ -2,14 +2,14 @@
 
 ## Présentation
 
-Bobol illustre le chaos à travers la simulation d'une bille qui tombe dans un bol.  
+Bobol illustre le chaos à travers la simulation d'une bille qui tombe dans un bol.
 Ce projet vise à explorer des concepts de dynamique chaotique et de visualisation.
 
 ---
 
 ## Structure du projet
 
-- `docs/` : Profils, documentations et présentations des membres de l’équipe.
+- `docs/` : Profils, documentations et présentations des membres de l'équipe.
 - (Ajouter ici les dossiers de code source, scripts ou notebooks si existants)
 - `README.md` : Ce fichier.
 
@@ -29,11 +29,14 @@ Ce projet vise à explorer des concepts de dynamique chaotique et de visualisati
    ```sh
    git clone <url-du-repo>
    cd jlguenego-bobol
+   winget install Volta.Volta
+   volta install node@22
+   volta install pnpm
    ```
 
 2. Pour tester faire les instructions suivante :
 
-```
+```ps
 pnpm install
 pnpm dev
 ```
@@ -55,8 +58,8 @@ pnpm dev
 
 ## Licence
 
-- (À compléter selon la licence choisie)
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
-_Pour toute question, contactez l’un des membres de l’équipe !_
+_Pour toute question, contactez l'un des membres de l'équipe !_
