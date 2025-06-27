@@ -1,15 +1,17 @@
+<template>
+  <div class="w-[800px] h-[600px] mx-auto mt-8 border shadow relative">
+    <canvas v-canvas class="absolute inset-0"></canvas>
+    <SimulationControls @launch="launchSimulation" />
+  </div>
+</template>
+
 <script setup lang="ts">
-import HelloWorld from "./components/HelloWorld.vue";
+import SimulationControls from "./components/SimulationControls.vue";
+import { launchSimulation } from "./composables/useSimulation";
 </script>
 
-<template>
-  <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
-</template>
+<style scoped>
+canvas {
+  display: block;
+}
+</style>
