@@ -22,7 +22,7 @@ Ce projet vise à explorer des concepts de dynamique chaotique et de visualisati
 
 --volta
 --node
---test
+--pnpm
 
 ## Installation
 
