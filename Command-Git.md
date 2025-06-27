@@ -34,6 +34,12 @@ git fetch mon-remote ma-branche
 git push mon-remote ma-branche
 ```
 
+A faire en dernier recours:
+
+```
+git push --force mon-remote ma-branche
+```
+
 Et surtout ne pas faire:
 
 ```
