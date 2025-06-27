@@ -34,7 +34,7 @@ La dynamique chaotique est un domaine fascinant de la physique et des mathémati
 
 --volta
 --node
---test
+--pnpm
 
 ## Installation
 
