@@ -2,8 +2,20 @@
 
 ## Présentation
 
-Bobol illustre le chaos à travers la simulation d'une bille qui tombe dans un bol.  
-Ce projet vise à explorer des concepts de dynamique chaotique et de visualisation.
+**Bobol** est un projet pédagogique et scientifique qui vise à illustrer la notion de chaos à travers la simulation d'une bille tombant dans un bol.  
+Ce projet permet d’explorer les concepts de dynamique chaotique, de modélisation physique et de visualisation interactive.
+
+### Objectifs du projet
+
+- **Comprendre le chaos** : Montrer comment de petites variations dans les conditions initiales peuvent entraîner des comportements très différents, typiques des systèmes chaotiques.
+- **Modéliser la dynamique** : Utiliser des équations physiques pour simuler le mouvement d’une bille dans un bol, en tenant compte des forces (gravité, frottements, rebonds, etc.).
+- **Visualiser les trajectoires** : Proposer une interface graphique ou des outils de visualisation pour observer en temps réel l’évolution de la bille et l’émergence du chaos.
+- **Expérimenter** : Permettre à l’utilisateur de modifier les paramètres (forme du bol, vitesse initiale, etc.) et d’observer l’impact sur la trajectoire.
+
+### Pourquoi ce projet ?
+
+La dynamique chaotique est un domaine fascinant de la physique et des mathématiques.  
+À travers Bobol, nous souhaitons rendre ces notions accessibles et ludiques, tout en offrant un support d’expérimentation pour les étudiants, enseignants ou curieux.
 
 ---
 
